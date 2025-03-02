@@ -13,7 +13,7 @@ Kullanıcıların yakınlarındaki sosyal etkinlikleri keşfedebileceği, etkinl
 
 - React Native
 - Expo
-- Firebase
+- Firebase (firebase-storage yoktur. fakeAPI kullanılmıstır)
 - React Navigation
 - Expo Location
 - React Native Maps
